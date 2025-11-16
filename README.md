@@ -1,2 +1,2 @@
-# html-portfolio
+# first-html-activity
 Mi primer miniproyecto HTML
